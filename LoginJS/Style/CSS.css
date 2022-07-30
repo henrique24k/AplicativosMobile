@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+
+#acessoPermitido{
+    background-color: green;
+}
+
+#acessoNegado{
+    background-color: red;
+}
+
+.permissao{
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+}
+
+.negado{
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+}
